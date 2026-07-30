@@ -6,3 +6,6 @@ __pycache__/
 .Python
 .DS_Store
 superstore_data.csv
+processed_data/
+*.crc
+_SUCCESS
