@@ -4,3 +4,4 @@ pandas
 matplotlib
 jupyter
 pyarrow
+seaborn
